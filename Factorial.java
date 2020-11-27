@@ -7,5 +7,6 @@ public class Factorial
 			{factorial=factorial*D;
 			}
 		System.out.println("factorial="+factorial);
+		System.out.println("hola");
 	}
 }
